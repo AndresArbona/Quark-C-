@@ -7,6 +7,8 @@
 #define COLUMNAS 2
 #define FILAS 4
 
+//Este proyecto esta subido a Git: Andres.trabajo90@gmail.com.
+
 using namespace std;
 
 //------------------Tema 5--------------------//
